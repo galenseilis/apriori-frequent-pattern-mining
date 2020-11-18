@@ -1,0 +1,19 @@
+ https://en.wikipedia.org/wiki/Apriori_algorithm
+ https://www.geeksforgeeks.org/apriori-algorithm/
+ https://www.kdnuggets.com/2016/04/association-rules-apriori-algorithm-tutorial.html
+ 
+ Section 5.2 of the textbook summarizes some ways to improve complexity
+ 1. Use a priori principle
+ 2. Reduce the number of comparisons by using data structures that either store candidate itemsets or compress data set. See section 5.2.4 and 5.6 respectively.
+ 3. Reduce number of transactions. See bibliographic notes.
+ 4. Parallelism/concurrency
+ 
+ Algorithm 5.1 gives itemset generation part of apriori algorithm
+ Section 5.2.3 gives implementations for candidate generatoin and pruning
+ Section 5.2.4 implements function to determine all candidate itemsets that contained in each transactoin.
+ 
+ -algorithm terminates when there are no frequent itemsets generated
+
+ http://rasbt.github.io/mlxtend/user_guide/frequent_patterns/apriori/
+ https://github.com/tommyod/Efficient-Apriori/blob/master/efficient_apriori/itemsets.py
+ https://github.com/asaini/Apriori/blob/python3/apriori.py
