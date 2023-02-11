@@ -1,0 +1,40 @@
+data.txt
+Name: 
+Type: MultiGraph
+Number of nodes: 5
+Number of edges: 13
+Average degree:   5.2000
+Graph Density: 0.8
+
+1k5L.txt
+Name: 
+Type: MultiGraph
+Number of nodes: 825
+Number of edges: 17900
+Average degree:  43.3939
+Graph Density: 0.04548396587231539
+
+t25i10d10k.txt
+Name: 
+Type: MultiGraph
+Number of nodes: 929
+Number of edges: 3223585
+Average degree: 6939.9031
+Graph Density: 0.7287916187223934
+
+retail.txt
+Name: 
+Type: MultiGraph
+Number of nodes: 16407
+Number of edges: 7164335
+Average degree: 873.3266
+Graph Density: 0.026650472189208168
+
+connect.txt
+Name: 
+Type: MultiGraph
+Number of nodes: 129
+Number of edges: 61003971
+Average degree: 945798.0000
+Graph Density: 0.8269137596899225
+
